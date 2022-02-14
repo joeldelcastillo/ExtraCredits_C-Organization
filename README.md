@@ -1,3 +1,3 @@
 # ExtraCredits_C-Organization
 
-- isZero() ALU method implemented with recursion for any 2^n size bits
+- Repo to save all extra credits from Computer Organization
